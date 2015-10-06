@@ -9,3 +9,5 @@ To test for success in encoding a module, execute: mocha
 I used this chart library adapted for react: https://github.com/fiatjaf/react-charts
 To make pretty view I used simple CSS framework Pure.css: http://purecss.io/
 Other tools that I used: React.JS, jQuery, JSXTransformer, Socket.IO
+
+![Screenshot](https://raw.githubusercontent.com/manyahin/colu_test/master/colu_screenshot.png)
